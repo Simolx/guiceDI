@@ -1,2 +1,3 @@
 rootProject.name = 'guiceDI'
+include 'sample'
 
